@@ -1,6 +1,6 @@
 # Blog
 
-### Instalation
+### Installation
 
 In Terminal navigate to app directory and run:
 
