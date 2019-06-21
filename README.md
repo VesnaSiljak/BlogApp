@@ -9,3 +9,6 @@ In Terminal navigate to app directory and run:
 npm install
 
 ```
+
+index.html - Blog page
+map.html - Map page
